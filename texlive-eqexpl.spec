@@ -3,7 +3,7 @@ Version:	63629
 Release:	2
 Summary:	Align explanations for formulas
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eqexpl
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/eqexpl
 License:	cc-by-sa-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eqexpl.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eqexpl.doc.r%{version}.tar.xz
